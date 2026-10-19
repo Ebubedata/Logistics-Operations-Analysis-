@@ -83,14 +83,19 @@ The dataset contains approximately 361,799 records across 14 tables, covering di
 - Customers: there are 200, split fairly evenly by type (31%, 31.5%, 37.5%).
 - Acquisition: new customers peak in June (24) and are lowest in October (12). Monthly figures range from 12 to 24.
 - Industries: Automotive leads (41), then Food/Beverage (37) and Retail (35). General is lowest (24).
-- Credit terms: about 55 customers sit in the longest-term bucket (~60 days). That is a cash-flow risk worth tracking.
-- Revenue concentration is low: First Group (18.6M) and XYZ Wholesale (14.8M) lead, but the top 10 customers total ~116M.
-- Dedicated bookings bring ~33M, about double Contract (17M) or Spot (16M). This is the best segment to grow.
-- Loads: steady at ~2.2K to 2.5K a month. February is lowest (2,179) and August highest (2,496).
+- Credit terms: about 55 customers sit in the longest-term bucket (60 days). That is a cash-flow risk worth tracking.
+- Revenue concentration is low: First Group (18.6M) and XYZ Wholesale (14.8M) lead, but the top 10 customers total 116M.
+- Dedicated bookings bring 33M, about double Contract (17M) or Spot (16M). This is the best segment to grow.
+- Loads: steady at 2.2K to 2.5K a month. February is lowest (2,179) and August highest (2,496).
 - Load mix: Refrigerated and Dry Van are a near 50/50 split.
-- Route RTE00025: it has the longest distance (1.2M miles) but the lowest revenue per mile (~$1.61, against $2.3 to $2.6 on other top routes). Check its pricing.
+- Route RTE00025: it has the longest distance (1.2M miles) but the lowest revenue per mile ($1.61, against $2.3 to $2.6 on other top routes). Check its pricing.
 - Fleet utilization is very even: the top trucks run 656 to 681 trips and 0.94M to 0.99M miles each. No outliers.
 - Fuel spend is falling: 4.1M, 3.7M, then 3.5M.
-- Trips: January spikes (6.6K), then they hold flat at ~4.7K a month, so there is no seasonality.
+- Trips: January spikes (6.6K), then they hold flat at 4.7K a month, so there is no seasonality.
 
 ## Business Recommendations 
+
+- Tighten credit terms. About 55 customers are on the longest-term bucket. Offer early-payment discounts and review the credit limits of long-term accounts, to protect cash flow.
+- Plan acquisition around the peak. New customers peak in June (24) and drop in October (12). Time campaigns to build on the June peak and lift the weak months.
+- Grow Dedicated bookings. They bring 33M, about double Contract (17M) or Spot (16M). Offer Contract and Spot customers an upgrade to dedicated terms.
+- Review Route Profitability: Investigate Route RTE00025, which has the longest recorded distance but the lowest revenue per mile among the top routes. Review its pricing, fuel costs, and operating expenses to identify opportunities to improve returns.
