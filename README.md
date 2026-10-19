@@ -54,6 +54,7 @@ This project uses SQL and Power BI to organise and analyse logistics data, helpi
 4. Load and Route Analysis
 
 - Monthly load trends
+- 
 - Load weight by route
 - Loads by type
 - Top customers by load volume
@@ -77,4 +78,19 @@ The dataset contains approximately 361,799 records across 14 tables, covering di
 4. Connected MySQL to Power BI and created relationships between relevant tables.
 5. Developed a four-page dashboard to visualise logistics performance.
 
-## Insights
+## Business Insights
+
+- Customers: there are 200, split fairly evenly by type (31%, 31.5%, 37.5%).
+- Acquisition: new customers peak in June (24) and are lowest in October (12). Monthly figures range from 12 to 24.
+- Industries: Automotive leads (41), then Food/Beverage (37) and Retail (35). General is lowest (24).
+- Credit terms: about 55 customers sit in the longest-term bucket (~60 days). That is a cash-flow risk worth tracking.
+- Revenue concentration is low: First Group (18.6M) and XYZ Wholesale (14.8M) lead, but the top 10 customers total ~116M.
+- Dedicated bookings bring ~33M, about double Contract (17M) or Spot (16M). This is the best segment to grow.
+- Loads: steady at ~2.2K to 2.5K a month. February is lowest (2,179) and August highest (2,496).
+- Load mix: Refrigerated and Dry Van are a near 50/50 split.
+- Route RTE00025: it has the longest distance (1.2M miles) but the lowest revenue per mile (~$1.61, against $2.3 to $2.6 on other top routes). Check its pricing.
+- Fleet utilization is very even: the top trucks run 656 to 681 trips and 0.94M to 0.99M miles each. No outliers.
+- Fuel spend is falling: 4.1M, 3.7M, then 3.5M.
+- Trips: January spikes (6.6K), then they hold flat at ~4.7K a month, so there is no seasonality.
+
+## Business Recommendations 
