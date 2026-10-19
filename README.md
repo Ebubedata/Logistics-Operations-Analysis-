@@ -62,7 +62,6 @@ This project uses SQL and Power BI to organise and analyse logistics data, helpi
 <img width="928" height="503" alt="load and route logistics analysis" src="https://github.com/user-attachments/assets/037f0717-cd86-4e22-8944-96c1665ed74c" />
 
 - Monthly load trends
-- 
 - Load weight by route
 - Loads by type
 - Top customers by load volume
