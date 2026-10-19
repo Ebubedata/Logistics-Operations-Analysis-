@@ -31,6 +31,8 @@ This project uses SQL and Power BI to organise and analyse logistics data, helpi
 
 1. Logistics Overview
 
+<img width="927" height="502" alt="logistics overview analysis" src="https://github.com/user-attachments/assets/0c758b62-60ba-4d3f-9770-47bdcd10f6d4" />
+
 - Monthly trip trends
 - Top 10 customers by revenue
 - Revenue by booking type
@@ -48,12 +50,16 @@ This project uses SQL and Power BI to organise and analyse logistics data, helpi
 
 3. Fleet and Fuel Analysis
 
+<img width="930" height="499" alt="fleet and fuel logistic analysis" src="https://github.com/user-attachments/assets/50891655-6203-4ced-8e65-63584693eb19" />
+
 - Fuel expenditure by year
 - Fuel expenditure by truck
 - Distance travelled by truck
 - Number of trips by truck
 
 4. Load and Route Analysis
+
+<img width="928" height="503" alt="load and route logistics analysis" src="https://github.com/user-attachments/assets/037f0717-cd86-4e22-8944-96c1665ed74c" />
 
 - Monthly load trends
 - 
