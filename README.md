@@ -39,6 +39,8 @@ This project uses SQL and Power BI to organise and analyse logistics data, helpi
 
 2. Customer Analysis
 
+<img width="927" height="501" alt="customers logistics analysis new" src="https://github.com/user-attachments/assets/86a3fa57-8abb-4ec7-b364-06b9911bc1b7" />
+
 - Customers by freight type
 - Customer acquisition trends
 - Customer distribution by type
